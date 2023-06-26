@@ -1,0 +1,26 @@
+.formcontato--esquerda{
+    width: 45%;
+}
+
+.formcontato--esquerda img{
+    width: 100%;
+}
+
+.formcontato__img{
+    float: left;
+    width: 464px;
+    height: 593px;
+    padding-bottom: 2rem;
+}
+
+@media screen and (min-width:425px) {
+    .formcontato__img{
+        display: none;
+    }
+}
+
+@media screen and (min-width:768px) {
+    .formcontato__img{
+        display: flex;
+    }
+}

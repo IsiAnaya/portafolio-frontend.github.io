@@ -1,0 +1,17 @@
+
+.experience__botao--demo{
+    background-color: white;
+    border-color: 1px #FF0F7B;
+    padding: 14px 18px;
+    font-family: 'Raleway';
+    color: #FF0F7B;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all .1s ease-in-out;
+}
+
+.experience__botao--demo:hover{
+    color: white;
+    cursor: pointer;
+    background: #960044;
+}

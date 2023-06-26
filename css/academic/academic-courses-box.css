@@ -1,0 +1,15 @@
+.academic__courses{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+.academic__courses__box{
+    padding: 16px;
+    width: 268px;
+    height: 186px;
+    background: #FFFFFF;
+    justify-content: center;
+    border-radius: 10px;
+}

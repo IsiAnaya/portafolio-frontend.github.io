@@ -1,0 +1,19 @@
+.experience__info-container{
+    display: flex;
+    flex-direction: column;
+    padding-top: 11rem;
+}
+
+@media screen and (min-width:425px) {
+    .experience__info-container{
+        display: block;
+    }
+}
+
+@media screen and (min-width:768px) {
+    .experience__info-container{
+        display: flex;
+        flex-direction: column;
+        padding-top: 11rem;
+    }
+}

@@ -1,0 +1,22 @@
+.experience__img{
+    float: left;
+    padding-right: 1rem;
+    padding-bottom: 4rem;
+}
+
+@media screen and (min-width:425px) {
+    .experience__img{
+        width: 100%;
+        align-items: center;
+        padding-bottom: 2rem;
+    }
+}
+
+@media screen and (min-width:768px) {
+    .experience__img{
+        width: 75%;
+        float: left;
+        padding-right: 1rem;
+        padding-bottom: 4rem;
+    }
+}

@@ -1,0 +1,21 @@
+.about__title{
+    text-align: left;
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 32px;
+    color: white;
+}
+
+@media screen and (min-width:425px) {
+    .about__title{
+        text-align: center;
+        padding-bottom: 1rem;
+    }
+}
+
+@media screen and (min-width:768px) {
+    .about__title{
+        display: flex;
+        text-align: left;
+    }
+}

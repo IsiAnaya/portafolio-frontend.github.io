@@ -1,0 +1,17 @@
+.skills__title{
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 32px;
+    text-align: center;
+    color: white;
+
+}
+
+.hobbies__title{
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 32px;
+    text-align: center;
+    color: white;
+    padding-top: 5rem;
+}

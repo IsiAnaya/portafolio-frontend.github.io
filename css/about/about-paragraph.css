@@ -1,0 +1,20 @@
+.about__paragraph{
+    font-family: 'Raleway';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 2rem;
+    color: white;
+}
+
+@media screen and (min-width:425px) {
+    .about__paragraph{
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+@media screen and (min-width:768px) {
+    .about__paragraph{
+        display: flex;
+    }
+}

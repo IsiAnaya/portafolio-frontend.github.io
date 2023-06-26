@@ -1,0 +1,19 @@
+.formcontato__form{
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.formcontato__input, .formcontato__textarea{
+    padding: 1rem;
+    font-family: 'Raleway';
+}
+
+.formcontato__textarea{
+    resize: none;
+}
+
+.formcontato__input:hover, .formcontato__textarea:hover{
+    border-bottom: 3px solid #FF0F7B;
+}

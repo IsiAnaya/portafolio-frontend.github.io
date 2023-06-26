@@ -1,0 +1,16 @@
+.experience{
+    background: #000123;
+    padding: 3rem 7rem 7rem 7rem;
+}
+
+@media screen and (min-width:425px) {
+    .experience{
+        padding: 3rem 3rem 7rem 3rem;
+    }
+}
+
+@media screen and (min-width:768px) {
+    .experience{
+        padding: 3rem 7rem 7rem 7rem;
+    }
+}

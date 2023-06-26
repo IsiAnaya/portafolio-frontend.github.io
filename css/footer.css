@@ -1,0 +1,12 @@
+.footer{
+    background: #000123;
+    padding: 2rem;
+    text-align: center;
+}
+
+.footer__rodapie{
+    font-family: 'Raleway';
+    font-weight: 500;
+    font-size: 16px;
+    color: white;
+}

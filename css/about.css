@@ -1,0 +1,24 @@
+.about{
+    background: url(../assets/skills-hobbies.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 5rem 30rem 5rem 7rem;
+    
+}
+
+@media screen and (min-width:425px) {
+    .about{
+        display: flex;
+        text-align: center;
+        padding: 5rem 3rem 5rem 3rem;
+    }
+}
+
+@media screen and (min-width:425px) {
+    .about{
+        display: flex;
+        text-align: left;
+        padding: 5rem 30rem 5rem 7rem;
+    }
+}

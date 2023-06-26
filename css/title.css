@@ -1,0 +1,23 @@
+.title{
+    background-image: url(../assets/title.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    display: flex;
+    padding: 5rem 7rem 5rem 7rem;
+}
+
+@media screen and (min-width:425px) {
+    .title{
+        display: flex;
+        padding: 2rem 3rem 0 3rem;
+    }
+}
+
+@media screen and (min-width:768px) {
+    .title{
+        display: flex;
+        padding: 5rem 7rem 5rem 7rem;
+    }
+}

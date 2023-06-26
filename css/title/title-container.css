@@ -1,0 +1,5 @@
+.title__container{
+    display: flex;
+    flex-direction: column;
+    padding: 6rem 8rem 7rem 0;
+}
